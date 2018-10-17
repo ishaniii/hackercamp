@@ -46,9 +46,11 @@ Series: Big Bang Theory
 ## Sample Input Output 
 
 ![screenshot from 2018-10-17 20-41-15](https://user-images.githubusercontent.com/34620641/47097174-7b236780-d24e-11e8-8f14-70ab1418e367.png)
-![img_20181017_204724](https://user-images.githubusercontent.com/34620641/47097021-1700a380-d24e-11e8-9337-d85a4b3e7264.jpg)
-![screenshot from 2018-10-17 20-45-43](https://user-images.githubusercontent.com/34620641/47097148-69da5b00-d24e-11e8-8037-36a88ad2cf69.png)
 ![img_20181017_204742](https://user-images.githubusercontent.com/34620641/47097107-50391380-d24e-11e8-89ce-7429c857f5ee.jpg)
+
+
+![screenshot from 2018-10-17 20-45-43](https://user-images.githubusercontent.com/34620641/47097148-69da5b00-d24e-11e8-8037-36a88ad2cf69.png)
+![img_20181017_204724](https://user-images.githubusercontent.com/34620641/47097021-1700a380-d24e-11e8-9337-d85a4b3e7264.jpg)
 ## Key Features
   * Database maintaining the details of users (can be easily expanded as per need) and status of email success.
   * Database can be further used and exploited to make reports of user preferences and popularity of tv series.
