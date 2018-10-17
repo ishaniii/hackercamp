@@ -34,7 +34,7 @@ Email: receiveremail@gmail.com
 Series: friends
 
 
-$ python main.py
+$ python3 main.py
 Number of users: 2
 Email: receiver1mail@gmail.com
 Series: Game of Thrones, Friends, Suits
