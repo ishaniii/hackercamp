@@ -37,10 +37,10 @@ Series: friends
 $ python3 main.py
 Number of users: 2
 Email: receiver1mail@gmail.com
-Series: Game of Thrones, Friends, Suits
+Series: Game of Thrones, Friends, Stranger Things
 
 Email: receiver2mail@gmail.com
-Series: Big Bang Theory, Suits
+Series: Big Bang Theory
 
 ```
 
