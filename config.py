@@ -1,15 +1,9 @@
-#import os
-
 DB_HOST = "localhost"
 DB_USER = "root"
-DB_PASS = "" #'Your password'
-DB_NAME = "test"#'series'
+DB_PASS = "" #password of DB connection
+DB_NAME = "test" #name of database
 
 EMAIL_HOST = "smtp.gmail.com"
 EMAIL_PORT = 587
-#SENDER_ID = os.environ['SENDER_GMAIL_ID']
-#SENDER_PASSWORD = os.environ['SENDER_PASSWORD']
-
-
-SENDER_ID = "0612ishani@gmail.com"  #'Your email'
-SENDER_PASSWORD = "pwdpwdpwd123"    #'Your password'
+SENDER_ID = "mail@gmail.com"  #email id of sender
+SENDER_PASSWORD = "XXXXXX" #password of sender account
